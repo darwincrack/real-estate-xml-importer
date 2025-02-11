@@ -1,0 +1,502 @@
+[2025-02-03 23:00:05] --------------- Iniciando proceso de cron xml tipo: 1-------------------------------
+[2025-02-03 23:00:05] Iniciando importación XML (CRON)
+[2025-02-03 23:00:05] URL a importar: http://propertyfeedv3.kyero.com/?99df5617d324ec8faca75981bfcfdf1789e060bf
+[2025-02-03 23:00:05] --------------- Iniciando proceso de cron xml tipo: 3-------------------------------
+[2025-02-03 23:00:05] Iniciando importación XML (CRON)
+[2025-02-03 23:00:05] URL a importar: https://xml.redsp.net/file/506/23x465s0951/general-zone-1-kyero.xml
+[2025-02-03 23:00:05] Procesando propiedad ID: 16638953
+[2025-02-03 23:00:05] Procesando propiedad REF: 3405-03749
+[2025-02-03 23:00:05] Propiedad actualizada: apartment en Orihuela Costa, Alicante province POST ID: 120293 Property ID: 16638953
+[2025-02-03 23:00:05] Ya la propiedad existe y no se procesan imagenes ID: 16638953
+[2025-02-03 23:00:05] Procesando propiedad ID: 16645276
+[2025-02-03 23:00:05] Procesando propiedad REF: 3405-02998
+[2025-02-03 23:00:05] Propiedad actualizada: apartment en Torrevieja, Alicante province POST ID: 120296 Property ID: 16645276
+[2025-02-03 23:00:05] Ya la propiedad existe y no se procesan imagenes ID: 16645276
+[2025-02-03 23:00:05] Procesando propiedad ID: 16665801
+[2025-02-03 23:00:05] Procesando propiedad REF: 3405-03439
+[2025-02-03 23:00:05] Propiedad actualizada: town house en Pilar de la Horadada, Alicante province POST ID: 120299 Property ID: 16665801
+[2025-02-03 23:00:05] Ya la propiedad existe y no se procesan imagenes ID: 16665801
+[2025-02-03 23:00:05] Procesando propiedad ID: 16765490
+[2025-02-03 23:00:05] Procesando propiedad REF: 3405-03583
+[2025-02-03 23:00:05] Propiedad actualizada: land en Elche, Alicante province POST ID: 120302 Property ID: 16765490
+[2025-02-03 23:00:05] Ya la propiedad existe y no se procesan imagenes ID: 16765490
+[2025-02-03 23:00:05] Procesando propiedad ID: 17486300
+[2025-02-03 23:00:05] Procesando propiedad REF: 3405-03866
+[2025-02-03 23:00:05] Propiedad actualizada: town house en Ciudad Quesada, Alicante province POST ID: 120305 Property ID: 17486300
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 17486300
+[2025-02-03 23:00:06] Procesando propiedad ID: 17606665
+[2025-02-03 23:00:06] Procesando propiedad REF: 3405-03873
+[2025-02-03 23:00:06] Propiedad actualizada: commercial property en Orihuela Costa, Alicante province POST ID: 120308 Property ID: 17606665
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 17606665
+[2025-02-03 23:00:06] Procesando propiedad ID: 17811021
+[2025-02-03 23:00:06] Procesando propiedad REF: 3405-03891
+[2025-02-03 23:00:06] Propiedad actualizada: commercial property en Pilar de la Horadada, Alicante province POST ID: 120481 Property ID: 17811021
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 17811021
+[2025-02-03 23:00:06] Procesando propiedad ID: 17846444
+[2025-02-03 23:00:06] Procesando propiedad REF: 3405-03898
+[2025-02-03 23:00:06] Propiedad actualizada: commercial property en San Pedro Del Pinatar, Murcia province POST ID: 120489 Property ID: 17846444
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 17846444
+[2025-02-03 23:00:06] Procesando propiedad ID: 17858884
+[2025-02-03 23:00:06] Procesando propiedad REF: 3405-03901
+[2025-02-03 23:00:06] Propiedad actualizada: commercial property en San Javier, Murcia province POST ID: 120499 Property ID: 17858884
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 17858884
+[2025-02-03 23:00:06] Procesando propiedad ID: 17921026
+[2025-02-03 23:00:06] Procesando propiedad REF: 3405-03906
+[2025-02-03 23:00:06] Propiedad actualizada: terraced house en Pilar de la Horadada, Alicante province POST ID: 120507 Property ID: 17921026
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 17921026
+[2025-02-03 23:00:06] Procesando propiedad ID: 18026694
+[2025-02-03 23:00:06] Procesando propiedad REF: 3405-03919
+[2025-02-03 23:00:06] Propiedad actualizada: town house en Orihuela Costa, Alicante province POST ID: 120516 Property ID: 18026694
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 18026694
+[2025-02-03 23:00:06] Procesando propiedad ID: 18030759
+[2025-02-03 23:00:06] Procesando propiedad REF: 3405-03910
+[2025-02-03 23:00:06] Propiedad actualizada: apartment en Mil Palmeras, Alicante province POST ID: 120538 Property ID: 18030759
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 18030759
+[2025-02-03 23:00:06] Procesando propiedad ID: 18255728
+[2025-02-03 23:00:06] Procesando propiedad REF: 3405-03981
+[2025-02-03 23:00:06] Propiedad actualizada: commercial property en San Pedro Del Pinatar, Murcia province POST ID: 120547 Property ID: 18255728
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 18255728
+[2025-02-03 23:00:06] Procesando propiedad ID: 18255729
+[2025-02-03 23:00:06] Procesando propiedad REF: 3405-03970
+[2025-02-03 23:00:06] Propiedad actualizada: village house en Hurchillo, Alicante province POST ID: 120554 Property ID: 18255729
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 18255729
+[2025-02-03 23:00:06] Procesando propiedad ID: 18425923
+[2025-02-03 23:00:06] Procesando propiedad REF: 3405-04024
+[2025-02-03 23:00:06] Propiedad actualizada: commercial property en Torrevieja, Alicante province POST ID: 120571 Property ID: 18425923
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 18425923
+[2025-02-03 23:00:06] Procesando propiedad ID: 18428420
+[2025-02-03 23:00:06] Procesando propiedad REF: 3405-04003
+[2025-02-03 23:00:06] Propiedad actualizada: apartment en Orihuela Costa, Alicante province POST ID: 120588 Property ID: 18428420
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 18428420
+[2025-02-03 23:00:06] Procesando propiedad ID: 18580198
+[2025-02-03 23:00:06] Procesando propiedad REF: 3405-Laguna01
+[2025-02-03 23:00:06] Procesando propiedad ID: 2193-115-10-115
+[2025-02-03 23:00:06] Procesando propiedad REF: N7018
+[2025-02-03 23:00:06] Propiedad actualizada: apartment en Torrevieja, Alicante province POST ID: 122390 Property ID: 18580198
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 18580198
+[2025-02-03 23:00:06] Procesando propiedad ID: 18580229
+[2025-02-03 23:00:06] Procesando propiedad REF: 3405-Laguna02
+[2025-02-03 23:00:06] Propiedad actualizada: Villa en Torre Pacheco, Murcia province POST ID: 124154 Property ID: 2193-115-10-115
+[2025-02-03 23:00:06] Propiedad actualizada: apartment en Torrevieja, Alicante province POST ID: 122396 Property ID: 18580229
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 2193-115-10-115
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 18580229
+[2025-02-03 23:00:06] Procesando propiedad ID: 2194-115-10-115
+[2025-02-03 23:00:06] Procesando propiedad REF: N8628
+[2025-02-03 23:00:06] Procesando propiedad ID: 18580244
+[2025-02-03 23:00:06] Procesando propiedad REF: 3405-Pulp1
+[2025-02-03 23:00:06] Propiedad actualizada: Villa en Torrevieja, Alicante province POST ID: 124157 Property ID: 2194-115-10-115
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 2194-115-10-115
+[2025-02-03 23:00:06] Procesando propiedad ID: 2105-115-10-115
+[2025-02-03 23:00:06] Procesando propiedad REF: N8520
+[2025-02-03 23:00:06] Propiedad actualizada: bungalow en Pulpi, Almeria province POST ID: 122405 Property ID: 18580244
+[2025-02-03 23:00:06] Propiedad actualizada: Bungalow en Pilar de La Horadada, Alicante province POST ID: 124160 Property ID: 2105-115-10-115
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 18580244
+[2025-02-03 23:00:06] No se encontraron propiedades para marcar como vendidas
+[2025-02-03 23:00:06] Importación completada. Estadísticas: Array
+(
+    [added] => 0
+    [updated] => 19
+    [deleted] => 0
+)
+
+[2025-02-03 23:00:06] ----------------finalizando proceso de cron xml tipo: 1----------------------------
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 2105-115-10-115
+[2025-02-03 23:00:06] Procesando propiedad ID: 1859-115-10-115
+[2025-02-03 23:00:06] Procesando propiedad REF: N8222
+[2025-02-03 23:00:06] Propiedad actualizada: Penthouse en Los Alcazares, Murcia province POST ID: 122903 Property ID: 1859-115-10-115
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 1859-115-10-115
+[2025-02-03 23:00:06] Procesando propiedad ID: 1858-115-10-115
+[2025-02-03 23:00:06] Procesando propiedad REF: N8221
+[2025-02-03 23:00:06] Propiedad actualizada: Penthouse en Los Alcazares, Murcia province POST ID: 124163 Property ID: 1858-115-10-115
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 1858-115-10-115
+[2025-02-03 23:00:06] Procesando propiedad ID: 1964-115-10-115
+[2025-02-03 23:00:06] Procesando propiedad REF: N8337
+[2025-02-03 23:00:06] Propiedad actualizada: Villa en Torre Pacheco, Murcia province POST ID: 124166 Property ID: 1964-115-10-115
+[2025-02-03 23:00:06] Ya la propiedad existe y no se procesan imagenes ID: 1964-115-10-115
+[2025-02-03 23:00:06] Procesando propiedad ID: 1736-115-10-115
+[2025-02-03 23:00:06] Procesando propiedad REF: N8017
+[2025-02-03 23:00:07] Propiedad actualizada: Apartamento POST ID: 124005 Property ID: 1736-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 1736-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 1765-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N7423
+[2025-02-03 23:00:07] Propiedad actualizada: Apartamento POST ID: 124008 Property ID: 1765-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 1765-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 1761-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N6654
+[2025-02-03 23:00:07] Propiedad actualizada: Apartamento POST ID: 124011 Property ID: 1761-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 1761-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 2048-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N8451
+[2025-02-03 23:00:07] Propiedad actualizada: Apartamento POST ID: 124014 Property ID: 2048-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 2048-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 1301-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N7549
+[2025-02-03 23:00:07] Propiedad actualizada: Villa en San Juan Alicante, Alicante province POST ID: 124017 Property ID: 1301-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 1301-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 2059-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N8460
+[2025-02-03 23:00:07] Propiedad actualizada: Villa en Los Montesinos, Alicante province POST ID: 124020 Property ID: 2059-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 2059-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 1220-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N7382
+[2025-02-03 23:00:07] Propiedad actualizada: Villa en Los Montesinos, Alicante province POST ID: 122954 Property ID: 1220-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 1220-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 1862-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N8233
+[2025-02-03 23:00:07] Propiedad actualizada: Town House en Rojales, Alicante province POST ID: 124023 Property ID: 1862-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 1862-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 1863-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N8234
+[2025-02-03 23:00:07] Propiedad actualizada: Villa en Rojales, Alicante province POST ID: 124026 Property ID: 1863-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 1863-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 1420-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N6155
+[2025-02-03 23:00:07] Propiedad actualizada: Town House en La Manga del Mar Menor, Murcia province POST ID: 124029 Property ID: 1420-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 1420-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 780-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N7105
+[2025-02-03 23:00:07] Propiedad actualizada: Villa en Los Montesinos, Alicante province POST ID: 124032 Property ID: 780-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 780-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 1323-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N7615
+[2025-02-03 23:00:07] Propiedad actualizada: Bungalow en Algorfa, Alicante province POST ID: 122622 Property ID: 1323-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 1323-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 1891-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N8261
+[2025-02-03 23:00:07] Propiedad actualizada: Quad House en Bigastro, Alicante province POST ID: 122625 Property ID: 1891-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 1891-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 1354-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N7682
+[2025-02-03 23:00:07] Propiedad actualizada: Villa en Finestrat, Alicante province POST ID: 122628 Property ID: 1354-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 1354-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 1822-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N8186
+[2025-02-03 23:00:07] Propiedad actualizada: Apartamento POST ID: 122631 Property ID: 1822-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 1822-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 2185-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N8610
+[2025-02-03 23:00:07] Propiedad actualizada: Penthouse en Villajoyosa, Alicante province POST ID: 122634 Property ID: 2185-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 2185-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 2184-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N8609
+[2025-02-03 23:00:07] Propiedad actualizada: Apartamento POST ID: 122637 Property ID: 2184-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 2184-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 2183-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N8608
+[2025-02-03 23:00:07] Propiedad actualizada: Apartamento POST ID: 122640 Property ID: 2183-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 2183-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 2182-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N8607
+[2025-02-03 23:00:07] Propiedad actualizada: Apartamento POST ID: 122643 Property ID: 2182-115-10-115
+[2025-02-03 23:00:07] Ya la propiedad existe y no se procesan imagenes ID: 2182-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad ID: 2181-115-10-115
+[2025-02-03 23:00:07] Procesando propiedad REF: N8606
+[2025-02-03 23:00:08] Propiedad actualizada: Apartamento POST ID: 122646 Property ID: 2181-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 2181-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 2180-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: N8605
+[2025-02-03 23:00:08] Propiedad actualizada: Apartamento POST ID: 122649 Property ID: 2180-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 2180-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 2192-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: N8619
+[2025-02-03 23:00:08] Propiedad actualizada: Villa en Fuente Álamo, Murcia province POST ID: 122652 Property ID: 2192-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 2192-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 2191-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: N8618
+[2025-02-03 23:00:08] Propiedad actualizada: Villa en Fuente Álamo, Murcia province POST ID: 122655 Property ID: 2191-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 2191-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 2190-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: N8617
+[2025-02-03 23:00:08] Propiedad actualizada: Town House en Fuente Álamo, Murcia province POST ID: 122658 Property ID: 2190-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 2190-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 2189-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: N8616
+[2025-02-03 23:00:08] Propiedad actualizada: Bungalow en Fuente Álamo, Murcia province POST ID: 122661 Property ID: 2189-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 2189-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 2188-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: N8615
+[2025-02-03 23:00:08] Propiedad actualizada: Bungalow en Fuente Álamo, Murcia province POST ID: 122518 Property ID: 2188-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 2188-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 2187-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: N8614
+[2025-02-03 23:00:08] Propiedad actualizada: Bungalow en Fuente Álamo, Murcia province POST ID: 122664 Property ID: 2187-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 2187-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 1706-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: N8074
+[2025-02-03 23:00:08] Propiedad actualizada: Penthouse en Aguilas, Murcia province POST ID: 122667 Property ID: 1706-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 1706-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 1704-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: N8072
+[2025-02-03 23:00:08] Propiedad actualizada: Apartamento POST ID: 122670 Property ID: 1704-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 1704-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 1702-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: N8070
+[2025-02-03 23:00:08] Propiedad actualizada: Apartamento POST ID: 122673 Property ID: 1702-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 1702-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 1792-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: N8132
+[2025-02-03 23:00:08] Propiedad actualizada: Bungalow en Pilar de La Horadada, Alicante province POST ID: 122676 Property ID: 1792-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 1792-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 1791-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: N8131
+[2025-02-03 23:00:08] Propiedad actualizada: Bungalow en Pilar de La Horadada, Alicante province POST ID: 122679 Property ID: 1791-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 1791-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 1659-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: N8030
+[2025-02-03 23:00:08] Propiedad actualizada: Apartamento POST ID: 122682 Property ID: 1659-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 1659-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 1459-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: N7816
+[2025-02-03 23:00:08] Propiedad actualizada: Apartamento POST ID: 122685 Property ID: 1459-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 1459-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 50-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: CSR292
+[2025-02-03 23:00:08] Propiedad actualizada: Villa en Polop, Alicante province POST ID: 122690 Property ID: 50-115-10-115
+[2025-02-03 23:00:08] Ya la propiedad existe y no se procesan imagenes ID: 50-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad ID: 1988-115-10-115
+[2025-02-03 23:00:08] Procesando propiedad REF: N8384
+[2025-02-03 23:00:09] Propiedad actualizada: Villa en Finestrat, Alicante province POST ID: 122694 Property ID: 1988-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 1988-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 1780-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N8120
+[2025-02-03 23:00:09] Propiedad actualizada: Villa en Finestrat, Alicante province POST ID: 122700 Property ID: 1780-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 1780-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 1779-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N8119
+[2025-02-03 23:00:09] Propiedad actualizada: Villa en Finestrat, Alicante province POST ID: 122704 Property ID: 1779-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 1779-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 1267-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N7502
+[2025-02-03 23:00:09] Propiedad actualizada: Town House en Finestrat, Alicante province POST ID: 122710 Property ID: 1267-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 1267-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 322-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N6432
+[2025-02-03 23:00:09] Propiedad actualizada: Bungalow en Pilar de La Horadada, Alicante province POST ID: 122715 Property ID: 322-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 322-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 2186-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N6431
+[2025-02-03 23:00:09] Propiedad actualizada: Bungalow en Pilar de La Horadada, Alicante province POST ID: 122720 Property ID: 2186-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 2186-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 1356-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N7658
+[2025-02-03 23:00:09] Propiedad actualizada: Apartamento POST ID: 122725 Property ID: 1356-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 1356-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 1355-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N7657
+[2025-02-03 23:00:09] Propiedad actualizada: Apartamento POST ID: 122730 Property ID: 1355-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 1355-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 1373-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N7003
+[2025-02-03 23:00:09] Propiedad actualizada: Bungalow en Pilar de La Horadada, Alicante province POST ID: 122736 Property ID: 1373-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 1373-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 865-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N7203
+[2025-02-03 23:00:09] Propiedad actualizada: Villa en Torre Pacheco, Murcia province POST ID: 122740 Property ID: 865-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 865-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 2179-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N8602
+[2025-02-03 23:00:09] Propiedad actualizada: Villa en Benissa, Alicante province POST ID: 122745 Property ID: 2179-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 2179-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 2176-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N8599
+[2025-02-03 23:00:09] Propiedad actualizada: Bungalow en Pilar de La Horadada, Alicante province POST ID: 122750 Property ID: 2176-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 2176-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 2178-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N8601
+[2025-02-03 23:00:09] Propiedad actualizada: Bungalow en San Pedro del Pinatar, Murcia province POST ID: 122756 Property ID: 2178-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 2178-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 2177-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N8600
+[2025-02-03 23:00:09] Propiedad actualizada: Bungalow en San Pedro del Pinatar, Murcia province POST ID: 122762 Property ID: 2177-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 2177-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 237-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N6288
+[2025-02-03 23:00:09] Propiedad actualizada: Villa en Torrevieja, Alicante province POST ID: 122767 Property ID: 237-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 237-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 1976-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N8357
+[2025-02-03 23:00:09] Propiedad actualizada: Villa en Benissa, Alicante province POST ID: 122775 Property ID: 1976-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 1976-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 947-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N7277
+[2025-02-03 23:00:09] Propiedad actualizada: Apartamento POST ID: 122780 Property ID: 947-115-10-115
+[2025-02-03 23:00:09] Ya la propiedad existe y no se procesan imagenes ID: 947-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad ID: 946-115-10-115
+[2025-02-03 23:00:09] Procesando propiedad REF: N7276
+[2025-02-03 23:00:10] Propiedad actualizada: Apartamento POST ID: 122785 Property ID: 946-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 946-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 682-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N6989
+[2025-02-03 23:00:10] Propiedad actualizada: Apartamento POST ID: 122789 Property ID: 682-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 682-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 1363-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N6024
+[2025-02-03 23:00:10] Propiedad actualizada: Apartamento POST ID: 122793 Property ID: 1363-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 1363-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 1711-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N8081
+[2025-02-03 23:00:10] Propiedad actualizada: Apartamento POST ID: 122797 Property ID: 1711-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 1711-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 447-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N6656
+[2025-02-03 23:00:10] Propiedad actualizada: Apartamento POST ID: 122802 Property ID: 447-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 447-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 93-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N5728
+[2025-02-03 23:00:10] Propiedad actualizada: Villa en Algorfa, Alicante province POST ID: 122807 Property ID: 93-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 93-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 605-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N6868
+[2025-02-03 23:00:10] Propiedad actualizada: Villa en San Pedro del Pinatar, Murcia province POST ID: 122813 Property ID: 605-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 605-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 72-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N5671
+[2025-02-03 23:00:10] Propiedad actualizada: Villa en Finestrat, Alicante province POST ID: 122818 Property ID: 72-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 72-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 1731-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N8113
+[2025-02-03 23:00:10] Propiedad actualizada: Villa en Orxeta, Alicante province POST ID: 122824 Property ID: 1731-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 1731-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 2004-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N8400
+[2025-02-03 23:00:10] Propiedad actualizada: Bungalow en Pilar de La Horadada, Alicante province POST ID: 122829 Property ID: 2004-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 2004-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 2175-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N8598
+[2025-02-03 23:00:10] Propiedad actualizada: Bungalow en Pilar de La Horadada, Alicante province POST ID: 122834 Property ID: 2175-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 2175-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 2003-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N8399
+[2025-02-03 23:00:10] Propiedad actualizada: Bungalow en Pilar de La Horadada, Alicante province POST ID: 122838 Property ID: 2003-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 2003-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 432-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N6623
+[2025-02-03 23:00:10] Propiedad actualizada: Villa en Orihuela Costa, Alicante province POST ID: 122843 Property ID: 432-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 432-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 704-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N7042
+[2025-02-03 23:00:10] Propiedad actualizada: Villa en Torre Pacheco, Murcia province POST ID: 122847 Property ID: 704-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 704-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 477-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N6692
+[2025-02-03 23:00:10] Propiedad actualizada: Penthouse en Torrevieja, Alicante province POST ID: 122851 Property ID: 477-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 477-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 2174-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N8597
+[2025-02-03 23:00:10] Propiedad actualizada: Penthouse en Pilar de La Horadada, Alicante province POST ID: 122856 Property ID: 2174-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 2174-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 2173-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N8596
+[2025-02-03 23:00:10] Propiedad actualizada: Apartamento POST ID: 122860 Property ID: 2173-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 2173-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 2172-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N8595
+[2025-02-03 23:00:10] Propiedad actualizada: Apartamento POST ID: 122865 Property ID: 2172-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 2172-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 2171-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N8594
+[2025-02-03 23:00:10] Propiedad actualizada: Apartamento POST ID: 122870 Property ID: 2171-115-10-115
+[2025-02-03 23:00:10] Ya la propiedad existe y no se procesan imagenes ID: 2171-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad ID: 21-115-10-115
+[2025-02-03 23:00:10] Procesando propiedad REF: N2776
+[2025-02-03 23:00:11] Propiedad actualizada: Apartamento POST ID: 122874 Property ID: 21-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 21-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 1952-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N5804
+[2025-02-03 23:00:11] Propiedad actualizada: Villa en Algorfa, Alicante province POST ID: 122879 Property ID: 1952-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 1952-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 1852-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N8212
+[2025-02-03 23:00:11] Propiedad actualizada: Penthouse en Guardamar del Segura, Alicante province POST ID: 122884 Property ID: 1852-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 1852-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 1851-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N8211
+[2025-02-03 23:00:11] Propiedad actualizada: Penthouse en Guardamar del Segura, Alicante province POST ID: 122889 Property ID: 1851-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 1851-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 1850-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N8210
+[2025-02-03 23:00:11] Propiedad actualizada: Apartamento POST ID: 122894 Property ID: 1850-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 1850-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 1849-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N8209
+[2025-02-03 23:00:11] Propiedad actualizada: Apartamento POST ID: 122898 Property ID: 1849-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 1849-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 1703-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N8071
+[2025-02-03 23:00:11] Propiedad actualizada: Apartamento POST ID: 122909 Property ID: 1703-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 1703-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 311-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N6417
+[2025-02-03 23:00:11] Propiedad actualizada: Bungalow en Torrevieja, Alicante province POST ID: 122914 Property ID: 311-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 311-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 957-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N7281
+[2025-02-03 23:00:11] Propiedad actualizada: Apartamento POST ID: 122919 Property ID: 957-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 957-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 1907-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N8279
+[2025-02-03 23:00:11] Propiedad actualizada: Penthouse en Monforte del Cid, Alicante province POST ID: 122924 Property ID: 1907-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 1907-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 1904-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N8278
+[2025-02-03 23:00:11] Propiedad actualizada: Apartamento POST ID: 122932 Property ID: 1904-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 1904-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 1794-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N8134
+[2025-02-03 23:00:11] Propiedad actualizada: Villa en Dolores, Alicante province POST ID: 122939 Property ID: 1794-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 1794-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 1924-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N8300
+[2025-02-03 23:00:11] Propiedad actualizada: Villa en Baños y Mendigo, Murcia province POST ID: 122945 Property ID: 1924-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 1924-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 913-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N7255
+[2025-02-03 23:00:11] Propiedad actualizada: Villa en Baños y Mendigo, Murcia province POST ID: 122950 Property ID: 913-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 913-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 1998-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N8389
+[2025-02-03 23:00:11] Propiedad actualizada: Town House en la Nucia, Alicante province POST ID: 122960 Property ID: 1998-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 1998-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 1613-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N7985
+[2025-02-03 23:00:11] Propiedad actualizada: Villa en la Nucia, Alicante province POST ID: 122965 Property ID: 1613-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 1613-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 655-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N6948
+[2025-02-03 23:00:11] Propiedad actualizada: Bungalow en Calpe, Alicante province POST ID: 122972 Property ID: 655-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 655-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 1425-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N6949
+[2025-02-03 23:00:11] Propiedad actualizada: Bungalow en Calpe, Alicante province POST ID: 122977 Property ID: 1425-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 1425-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 1642-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N6484
+[2025-02-03 23:00:11] Propiedad actualizada: Apartamento POST ID: 122981 Property ID: 1642-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 1642-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 2170-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N8587
+[2025-02-03 23:00:11] Propiedad actualizada: Penthouse en Los Alcazares, Murcia province POST ID: 122986 Property ID: 2170-115-10-115
+[2025-02-03 23:00:11] Ya la propiedad existe y no se procesan imagenes ID: 2170-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad ID: 2169-115-10-115
+[2025-02-03 23:00:11] Procesando propiedad REF: N8586
+[2025-02-03 23:00:12] Propiedad actualizada: Apartamento POST ID: 122992 Property ID: 2169-115-10-115
+[2025-02-03 23:00:12] Ya la propiedad existe y no se procesan imagenes ID: 2169-115-10-115
+[2025-02-03 23:00:12] Procesando propiedad ID: 2168-115-10-115
+[2025-02-03 23:00:12] Procesando propiedad REF: N8585
+[2025-02-03 23:00:12] Propiedad actualizada: Apartamento POST ID: 122997 Property ID: 2168-115-10-115
+[2025-02-03 23:00:12] Ya la propiedad existe y no se procesan imagenes ID: 2168-115-10-115
+[2025-02-03 23:00:12] Procesando propiedad ID: 1203-115-10-115
+[2025-02-03 23:00:12] Procesando propiedad REF: N7356
+[2025-02-03 23:00:12] Propiedad actualizada: Town House en Monforte del Cid, Alicante province POST ID: 123003 Property ID: 1203-115-10-115
+[2025-02-03 23:00:12] Ya la propiedad existe y no se procesan imagenes ID: 1203-115-10-115
+[2025-02-03 23:00:12] Propiedad ID 123048 marcada como vendida
+[2025-02-03 23:00:12] Propiedad ID 122770 marcada como vendida
+[2025-02-03 23:00:12] Total propiedades actualizadas: 2
+[2025-02-03 23:00:12] Importación completada. Estadísticas: Array
+(
+    [added] => 0
+    [updated] => 100
+    [deleted] => 0
+)
+
+[2025-02-03 23:00:12] ----------------finalizando proceso de cron xml tipo: 3----------------------------
