@@ -1,0 +1,4 @@
+logs/
+vendor/
+error_log
+cron/error_log

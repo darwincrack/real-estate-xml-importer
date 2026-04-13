@@ -24,7 +24,7 @@ $properties = $wpdb->get_results(
     "SELECT post_id, meta_value 
     FROM $wpdb->postmeta 
     WHERE meta_key = '_pending_images' 
-    LIMIT 5" // Procesamos 5 propiedades por ejecución
+    LIMIT 5"  // Procesamos 5 propiedades por ejecución
 );
 
 if (empty($properties)) {
@@ -39,30 +39,15 @@ foreach ($properties as $property) {
     write_log("Procesando imágenes para propiedad ID: {$property->post_id}");
     
     $pending_images = maybe_unserialize($property->meta_value);
-
-    // Verificación: si está vacío o no es un array, limpiamos y continuamos
-    if (empty($pending_images) || !is_array($pending_images)) {
-        write_log("No hay imágenes válidas en el meta. Limpiando.");
-        delete_post_meta($property->post_id, '_pending_images');
-        continue;
-    }
+    if (empty($pending_images)) continue;
 
     $uploaded_images = array();
-    $max_images_per_run = 10; // Límite de imágenes a procesar en ESTA ejecución
+    $max_images = 10; // Tu límite de imágenes (ahora será para imágenes adicionales)
+    $image_count = 0;
 
-    // *** INICIO DE LA CORRECCIÓN ***
+    foreach ($pending_images as $image_data) {
+        if ($image_count >= $max_images) break;
 
-    // 1. Separamos el lote que SÍ vamos a procesar ahora (los primeros 10)
-    $images_to_process = array_slice($pending_images, 0, $max_images_per_run);
-    
-    // 2. Creamos la lista de los que quedarán pendientes (todos MENOS los primeros 10)
-    $remaining_images = array_slice($pending_images, $max_images_per_run);
-
-    write_log("Total pendientes: " . count($pending_images) . ". Procesando: " . count($images_to_process) . ". Restantes: " . count($remaining_images));
-
-    // 3. Procesamos SOLO el lote de $images_to_process
-    foreach ($images_to_process as $image_data) {
-        // El 'break' ya no es necesario aquí
         write_log("Procesando imagen adicional: {$image_data['url']}");
         
         $upload = $importer->upload_image_from_url($image_data['url'], $property->post_id);
@@ -83,7 +68,7 @@ foreach ($properties as $property) {
                 );
 
                 $uploaded_images[] = $attachment_id;
-                // $image_count++; ya no es necesario
+                $image_count++;
                 write_log("Imagen adicional procesada exitosamente: {$attachment_id}");
             } else {
                 write_log("Error al crear attachment: " . $attachment_id->get_error_message());
@@ -91,9 +76,8 @@ foreach ($properties as $property) {
         } else {
             write_log("Error al subir imagen: " . $upload->get_error_message());
         }
-    } // Fin del foreach ($images_to_process ...)
+    }
 
-    // 4. Añadimos las nuevas imágenes a la galería (Este código estaba bien)
     if (!empty($uploaded_images)) {
         // Obtener galería existente (si hay)
         $existing_gallery_data = get_post_meta($property->post_id, 'gallery_data', true);
@@ -105,7 +89,7 @@ foreach ($properties as $property) {
         if (!empty($uploaded_images)) {
             $new_images = array_map(function($attachment_id) {
             $url = wp_get_attachment_url($attachment_id);
-            
+           
             if (!$url) {
                 write_log("Error: No se pudo obtener URL para attachment ID: $attachment_id");
                 return false;
@@ -121,21 +105,12 @@ foreach ($properties as $property) {
         }
 
         update_post_meta($property->post_id, 'gallery_data', $existing_gallery_data);
+    
     }
 
-    // 5. DECISIÓN CRÍTICA: Borrar o Actualizar el meta
-    if (empty($remaining_images)) {
-        // ¡Ahora sí! Si ya no quedan imágenes, borramos el meta
-        delete_post_meta($property->post_id, '_pending_images');
-        write_log("Finalizado y eliminado meta para propiedad ID (POST_ID): {$property->post_id}");
-    } else {
-        // Aún quedan imágenes. Actualizamos el meta field con la lista reducida.
-        update_post_meta($property->post_id, '_pending_images', $remaining_images);
-        write_log("Lote procesado. Quedan " . count($remaining_images) . " pendientes para ID (POST_ID): {$property->post_id}");
-    }
-    
-    // *** FIN DE LA CORRECCIÓN ***
+    // Eliminamos el meta de imágenes pendientes
+    delete_post_meta($property->post_id, '_pending_images');
+    write_log("Finalizado procesamiento para propiedad ID (POST_ID): {$property->post_id}");
 }
 
-write_log('Proceso finalizado');
-?>
+write_log('Proceso finalizado'); 
